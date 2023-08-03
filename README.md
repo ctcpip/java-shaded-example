@@ -2,6 +2,8 @@
 
 a sample java/maven project with shaded dependencies. useful for testing whether SBOM and vulnerability tools detect the shaded dependencies.
 
+if your tool fails to detect these dependencies, don't invite me to your party.
+
 ## shaded dependencies
 
 these are shaded by the dependency [apache pulsar-client](https://github.com/apache/pulsar).
